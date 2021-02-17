@@ -14,7 +14,7 @@
 	"consumes": [
 		"application/json"
 	],
-	"host": "http://charlessmithadobe-dev-ed.my.salesforce.com",	
+	"host": "charlessmithadobe-dev-ed.my.salesforce.com",	
 	"paths": {
 		"/services/data/v32.0/query": {
 			"get": {
